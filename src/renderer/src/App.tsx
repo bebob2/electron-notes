@@ -1,3 +1,3 @@
 export function App(): JSX.Element {
-  return <div>hello papka</div>
+  return <div className="bg-black text-white">hello papka</div>
 }
